@@ -76,6 +76,13 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="50" height="50"/> 
   </a> 
 </p>  
+## 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aadiisbz7/aadiisbz7/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aadiisbz7/aadiisbz7/output/snake-light.svg" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/aadiisbz7/aadiisbz7/output/snake-dark.svg" />
+</picture>
 
 ---
 
