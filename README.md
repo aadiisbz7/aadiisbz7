@@ -1,11 +1,11 @@
 <h1 align="center">Hi there 👋, I'm Aaditya Sharma</h1>  
-<h3 align="center">A passionate frontend developer from India</h3>  
+<h3 align="center">A passionate frontend developer</h3>  
 
 ---
 
 ## 🚀 About Me
 - 🎓 I'm a **4th-year student at VIT Bhopal**  
-- 💻 A passionate **Web Developer** with a growing interest in **Cloud Computing**  
+- 💻 A passionate **Web Developer** with interest in **Cloud Computing**  
 - 📚 Exploring **Data Structures & Algorithms (DSA)** and **Java**  
 - 🌱 Always curious to learn and explore new technologies  
 
