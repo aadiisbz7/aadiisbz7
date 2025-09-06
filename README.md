@@ -81,3 +81,16 @@
 ---
 
 <p align="center">⭐️ <i>Code, Learn, Build, Repeat.</i> ⭐️</p>
+
+---
+
+## 🐍 Contribution Snake  
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aadiisbz7/aadiisbz7/output/snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aadiisbz7/aadiisbz7/output/snake-light.svg" />
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/aadiisbz7/aadiisbz7/output/snake-dark.svg" />
+  </picture>
+</p>
+
